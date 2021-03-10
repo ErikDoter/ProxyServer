@@ -1,0 +1,8 @@
+.idea
+RootCA.crt
+RootCA.key
+RootCA.pem
+localhost.crt
+localhost.csr
+localhost.key
+RootCA.srl
